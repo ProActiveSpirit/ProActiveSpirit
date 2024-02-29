@@ -11,21 +11,39 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Welcome to my GitHub profile! :octocat:
 
 
-<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
+Experienced in Python/Django. Ready to Discuss Your Needs and Always Deliver High-Quality Works Fast.
+A Professional with years of experience in Full Stack Python Django Development specializing in Architecture design and execution.
+I have excellent algorithmic and analytical skills that I use to create efficient and competitive products that will help my clients to make their businesses successful.
 
+✅ 7+ years of experience (AWS, Elasticsearch, Microservices Architecture, Django, Python, Flask)
+✅ Senior Full Stack Developer
 
-</div>
+Skills Set:
+✔️ Database Design: MySQL, Postgresql, SQL Server, SQLite,
+✔️ System Automation: Scrapy, BeautifulSoup, Selenium
+✔️ Web Application Development: Django, Flask, RESTful API
+✔️ Project management Toolkits : Github, Gitlab, CI/CD
+✔️ Vast experience of web application architecture.
+✔️ AWS Lambda, EC2, S3, AWS RDS, AWS Elasticsearch, SSL Certificates
+✔️ Comprehensive understanding of web and mobile backends, mainly Django and Django REST framework.
+✔️ Django-REST JWT
+✔️ Designing REST APIs for both web and mobile applications.
+✔️ Celery for Periodic Tasks and long-running background jobs.
+✔️ Redis for database caching and message broking
+✔️ Designing scalable microservices architecture for huge Applications/CRM
+✔️ NGINX, Gunicorn, uWSGI, Supervisorctl
+✔️ Docker
+✔️ Elasticsearch with complex queries
+✔️ Stripe/Paypal Payment Gateway
+✔️ Twilio for Messages/Calls
+✔️ Django Channels and Sockets for Live Chat
+✔️ Selenium and Beautiful Soup for Scraping
+✔️ Flask
+✔️ Google Cloud
+✔️ Threading/Async (Scrapy, Celery, Channels)
+✔️ HTML5/CSS/Bootstrap/Sass
+✔️ Jquery/JS
+✔️ Git(GitHub / BitBucket/ GitLab)
+✔️ Jira/Trrello
 
-**Fun facts:**
-
-👩‍🎓 Former Marketing guru turned Data Science wizard with a Business degree in hand.
-  
-✍️ Master of Data Science and Innovation (MDSI) graduate from the University of Technology Sydney, armed with supercharged data skills.
-  
-🤔 If you don't write your SQL queries in uppercase, I don't trust you.
-  
-📈 Madly passionate about Modern Data Stacks, Data Engineering, DataOps, and saving the day with top-notch data governance practices for enterprise data architectures. Let's optimize that data flow!
-
-
-<br>
-
+Thank You for visiting my profile and lets discuss regarding your business and project.
